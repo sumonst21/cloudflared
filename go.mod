@@ -35,10 +35,10 @@ require (
 	go.opentelemetry.io/otel/trace v1.6.3
 	go.opentelemetry.io/proto/otlp v0.15.0
 	go.uber.org/automaxprocs v1.4.0
-	golang.org/x/crypto v0.2.0
+	golang.org/x/crypto v0.3.1-0.20221117191849-2c476679df9a
 	golang.org/x/net v0.2.0
 	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.2.0
+	golang.org/x/sys v0.3.0
 	golang.org/x/term v0.2.0
 	google.golang.org/protobuf v1.28.0
 	gopkg.in/coreos/go-oidc.v2 v2.2.1
@@ -55,7 +55,7 @@ require (
 	github.com/certifi/gocertifi v0.0.0-20200211180108-c7c1fbc02894 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/cheekybits/genny v1.0.0 // indirect
-	github.com/cloudflare/circl v1.2.1-0.20220809205628-0a9554f37a47 // indirect
+	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/coredns/caddy v1.1.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
